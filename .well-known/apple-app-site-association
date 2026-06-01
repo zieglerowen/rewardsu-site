@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2CK69J7HW7.co.rewardsu",
+        "paths": ["/reset-password", "/reset-password/*"]
+      }
+    ]
+  }
+}
